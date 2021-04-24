@@ -2,5 +2,7 @@
 require_relative '../most_repeated_consecutive_char'
 
 RSpec.describe 'MostRepeatedConsecutiveChar' do
-  # TODO
+  describe 'find' do
+    it { expect(MostRepeatedConsecutiveChar.find('ANKRURRR')).to eql 'R: 3' }
+  end
 end
