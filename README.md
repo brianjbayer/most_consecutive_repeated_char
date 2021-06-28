@@ -1,5 +1,5 @@
 # Find Most Consecutive Repeated Characters Kata
-A simple Test-Driven Deevlopment solution to a basic 
+A simple Test-Driven Devlopment solution to a basic 
 programming exercise of finding the most repeated 
 consecutive characters in a supplied string.
 
